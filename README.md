@@ -9,4 +9,10 @@ This is my portfolio. I have prepared it using VueJS (version 2).
 - [x] Run Project ```npm run serve```
 - [x] Hit to this url ```http://localhost:8080/``` 
 
-
+### Screenshots
+!["](https://github.com/naym00/my-portfolio/blob/master/src/assets/scrn1.PNG)
+!["](https://github.com/naym00/my-portfolio/blob/master/src/assets/scrn2.PNG)
+!["](https://github.com/naym00/my-portfolio/blob/master/src/assets/scrn3.PNG)
+!["](https://github.com/naym00/my-portfolio/blob/master/src/assets/scrn4.PNG)
+!["](https://github.com/naym00/my-portfolio/blob/master/src/assets/scrn5.PNG)
+!["](https://github.com/naym00/my-portfolio/blob/master/src/assets/scrn6.PNG)
