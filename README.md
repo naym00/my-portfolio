@@ -1,24 +1,10 @@
 # my-portfolio
+This is my portfolio. I have prepared it using VueJS (version 2).
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### How to run the project
+- [x] Install Nodejs ```https://nodejs.org/en/download/```
+- [x] Install npm ```npm install```
+- [x] Add Vuetify ```vue add vuetify```
+- [x] Add Router ```vue add router```
+- [x] Run Project ```npm run serve```
+- [x] Hit to this url ```http://localhost:8080/``` 
