@@ -8,3 +8,5 @@ This is my portfolio. I have prepared it using VueJS (version 2).
 - [x] Add Router ```vue add router```
 - [x] Run Project ```npm run serve```
 - [x] Hit to this url ```http://localhost:8080/``` 
+
+
